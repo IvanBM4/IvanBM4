@@ -22,6 +22,10 @@ I'm a full stack web developer ready to solve future challenges and keep learnin
 
 ![PlayUp](https://github.com/user-attachments/assets/f7d1cbcd-f96a-45b1-b032-8e6b807a43f3)
 
+### [Merche's Dungeon](https://github.com/IvanBM4/Merches-Dungeon) 
+
+![Merche's Dungeon](https://github.com/user-attachments/assets/8c242311-fe38-4163-8335-1eb4703d4e51)
+
 
 <!--
 **IvanBM4/IvanBM4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
