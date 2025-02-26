@@ -1,6 +1,9 @@
 ## Welcome!! 👋
 I'm a full stack web developer ready to solve future challenges and keep learning about everything I can! I already work with technologies like Javascript, React, Express, Node and MongoDB, and currently learning Typescript. My background as an audiovisual technician and a technology enthusiast, gave me a motivation to learn about developing and see coding as a technical puzzle to solve!
 
+## Projects 💻
+
+
 ## Technologies 🚀
 ### -Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
