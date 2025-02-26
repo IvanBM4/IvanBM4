@@ -14,9 +14,12 @@ I'm a full stack web developer ready to solve future challenges and keep learnin
 [![My Skills](https://skillicons.dev/icons?i=pr,ae,ps)](https://skillicons.dev)
 
 ## Projects 💻
-[Planning to go](https://planningtogo.netlify.app/)
+### [Planning to go](https://planningtogo.netlify.app/)
+
 ![Planning To Go](https://github.com/user-attachments/assets/8bc660fc-08f4-481d-a093-08778a233fe1)
-[PlayUp](https://playup.netlify.app/)
+
+### [PlayUp](https://playup.netlify.app/)
+
 ![PlayUp](https://github.com/user-attachments/assets/f7d1cbcd-f96a-45b1-b032-8e6b807a43f3)
 
 
