@@ -2,7 +2,7 @@
 I'm a full stack web developer ready to solve future challenges and keep learning about everything I can! I already work with technologies like Javascript, React, Express, Node and MongoDB, and currently learning Typescript. My background as an audiovisual technician and a technology enthusiast, gave me a motivation to learn about developing and see coding as a technical puzzle to solve!
 
 ## Projects 💻
-https://github.com/IvanBM4/IvanBM4/issues/1#issue-2882360871
+
 
 ## Technologies 🚀
 ### -Languages
