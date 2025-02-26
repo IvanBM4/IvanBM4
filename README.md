@@ -2,6 +2,8 @@
 I'm a full stack web developer ready to solve future challenges and keep learning about everything I can! I already work with technologies like Javascript, React, Express, Node and MongoDB, and currently learning Typescript. My background as an audiovisual technician and a technology enthusiast, gave me a motivation to learn about developing and see coding as a technical puzzle to solve!
 
 ## Projects 💻
+![Planning To Go](https://github.com/user-attachments/assets/8bc660fc-08f4-481d-a093-08778a233fe1)
+![PlayUp](https://github.com/user-attachments/assets/f7d1cbcd-f96a-45b1-b032-8e6b807a43f3)
 
 
 ## Technologies 🚀
