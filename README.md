@@ -9,7 +9,7 @@ I'm a full stack web developer ready to solve future challenges and keep learnin
 ### -Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 ### -Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,wordpress)](https://skillicons.dev)
 ### -AV Software I worked with
 [![My Skills](https://skillicons.dev/icons?i=pr,ae,ps)](https://skillicons.dev)
 
