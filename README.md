@@ -5,11 +5,11 @@ I'm a full stack web developer ready to solve future challenges and keep learnin
 ### -Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts)](https://skillicons.dev)
 ### -Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,bootstrap,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,bootstrap)](https://skillicons.dev)
 ### -Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 ### -Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,vite,wordpress)](https://skillicons.dev)
 ### -AV Software I worked with
 [![My Skills](https://skillicons.dev/icons?i=pr,ae,ps)](https://skillicons.dev)
 
