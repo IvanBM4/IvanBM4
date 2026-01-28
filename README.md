@@ -26,6 +26,16 @@ I'm a full stack web developer ready to solve future challenges and keep learnin
 
 ![Merche's Dungeon](https://github.com/user-attachments/assets/8c242311-fe38-4163-8335-1eb4703d4e51)
 
+## WordPress Projects 💻
+### [Radikal Capital](https://radikalcapital.com/) 
+![Radikal Capital](https://github.com/user-attachments/assets/a5250172-b17c-488c-907c-2a0192d2755c)
+
+### [Circular Resources](https://circularresources.net/)
+![Circular Resources](https://github.com/user-attachments/assets/f312acac-8c70-4155-838d-6ae0f887921d)
+
+### [Circular Plastics made in Europe](https://circularplasticseurope.com/)
+![Circular Plastics made in Europe](https://github.com/user-attachments/assets/4d1d8418-985f-49e9-baf2-d0f371fb3701)
+
 
 <!--
 **IvanBM4/IvanBM4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
